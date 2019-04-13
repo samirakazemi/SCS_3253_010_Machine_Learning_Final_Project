@@ -10,25 +10,15 @@ The purpose of this analysis is to look into the Poker Hand Data set and analyze
 **Attribute information of each card in one poker hand:**
 
 1) S1 "Suit of card #1" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
-
 2) C1 "Rank of card #1" Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)
-
 3) S2 "Suit of card #2" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
-
 4) C2 "Rank of card #2" Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)
-
 5) S3 "Suit of card #3" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
-
 6) C3 "Rank of card #3" Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)
-
 7) S4 "Suit of card #4" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
-
 8) C4 "Rank of card #4" Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)
-
 9) S5 "Suit of card #5" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
-
 10) C5 "Rank of card 5" Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)
-
 11) CLASS "Poker Hand" Ordinal (0-9)
 
 **Attribution of the strength of the hand:**
