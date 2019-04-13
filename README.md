@@ -3,11 +3,11 @@ Repository dedicated to Final Project of UofT Machine Learning Course
 
 The purpose of this analysis is to look into the Poker Hand Data set and analyze the strenght of each hand as a classification exercise. This dataset has already been devided into two sets of train and test dataset. Hence there is no need to split the data before starting the analysis.
 
-# UCI Machine Leaning Repository describes the dataset as following:
+** UCI Machine Leaning Repository describes the dataset as following:**
 
 "Each record is an example of a hand consisting of five playing cards drawn from a standard deck of 52. Each card is described using two attributes (suit and rank), for a total of 10 predictive attributes. There is one Class attribute that describes the Poker Hand. The order of cards is important, which is why there are 480 possible Royal Flush hands as compared to 4.
 
-# Attribute information of each card in one poker hand:
+** Attribute information of each card in one poker hand:**
 
 1) S1 "Suit of card #1" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
 
@@ -31,7 +31,7 @@ The purpose of this analysis is to look into the Poker Hand Data set and analyze
 
 11) CLASS "Poker Hand" Ordinal (0-9)
 
-# Attribution of the strength of the hand:
+** Attribution of the strength of the hand:**
 
 0) Nothing in hand; not a recognized poker hand 
 1) One pair; one pair of equal ranks within five cards 
@@ -44,11 +44,13 @@ The purpose of this analysis is to look into the Poker Hand Data set and analyze
 8) Straight flush; straight + flush 
 9) Royal flush; {Ace, King, Queen, Jack, Ten} + flush"
 
-We first started with Data Preparation and Pre-prediction Exploratory Data Analysis. For that we made use of functions such as “describe( )” which helps to view some basic statiscital details of our data set, “shape” which returns the dimesions of our dataset, “info” which gives the summary of our dataset and “head( )” which shows the data of the top five rows from our dataset. We have also plotted the histogram for each of our test and train dataset. The results of this exploratory analysis allowed us to become familiar with our dataset before starting the pipeline process.
+# Our approach
 
-To build the pipeline, the data were normalized using “StandardScaler( )”. This function helps us to make sure that all of our dataset features have the same weight and importance.
+We first started with Data Preparation and Pre-prediction Exploratory Data Analysis. For that we made use of functions such as “_describe( )_” which helps to view some basic statiscital details of our data set, “_shape_” which returns the dimesions of our dataset, “_info_” which gives the summary of our dataset and “_head( )_” which shows the data of the top five rows from our dataset. We have also plotted the histogram for each of our test and train dataset. The results of this exploratory analysis allowed us to become familiar with our dataset before starting the pipeline process.
 
-Since the category membership of our dataset is known, we are going to use the classification technique on our dataset. We have used models such KNN, SVM, RandomForest, Adaboost, Gradient Boosting and Bagging to analyze the dataset, find their accuracy and predict the labels.
+To build the pipeline, the data were normalized using “_StandardScaler( )_”. This function helps us to make sure that all of our dataset features have the same weight and importance.
+
+Since the category membership of our dataset is known, we are going to use the classification technique on our dataset. We have used models such _KNN_, _SVM_, _RandomForest_, _Adaboost_, _Gradient Boosting_ and _Bagging_ to analyze the dataset, find their accuracy and predict the labels.
 
 Before fitting the data into the models, hyperparameters were used to train the data even more effectively.
 
