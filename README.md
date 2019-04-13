@@ -45,3 +45,5 @@ Since the category membership of our dataset is known, we are going to use the c
 Before fitting the data into the models, hyperparameters were used to train the data even more effectively.
 
 The accuracy of each model was plotted and the results show that _ has the highest acuuracy to predicate the correct strength of the poker hand compared to other models that we have used.
+
+#Video
