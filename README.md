@@ -3,11 +3,11 @@ Repository dedicated to Final Project of UofT Machine Learning Course
 
 The purpose of this analysis is to look into the Poker Hand Data set and analyze the strenght of each hand as a classification exercise. This dataset has already been devided into two sets of train and test dataset. Hence there is no need to split the data before starting the analysis.
 
-** UCI Machine Leaning Repository describes the dataset as following:**
+**UCI Machine Leaning Repository describes the dataset as following:**
 
 "Each record is an example of a hand consisting of five playing cards drawn from a standard deck of 52. Each card is described using two attributes (suit and rank), for a total of 10 predictive attributes. There is one Class attribute that describes the Poker Hand. The order of cards is important, which is why there are 480 possible Royal Flush hands as compared to 4.
 
-** Attribute information of each card in one poker hand:**
+**Attribute information of each card in one poker hand:**
 
 1) S1 "Suit of card #1" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
 
@@ -31,7 +31,7 @@ The purpose of this analysis is to look into the Poker Hand Data set and analyze
 
 11) CLASS "Poker Hand" Ordinal (0-9)
 
-** Attribution of the strength of the hand:**
+**Attribution of the strength of the hand:**
 
 0) Nothing in hand; not a recognized poker hand 
 1) One pair; one pair of equal ranks within five cards 
