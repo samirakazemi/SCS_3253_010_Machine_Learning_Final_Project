@@ -11,10 +11,10 @@ Team members:
 
 | Name | Github Repo |
 | --- | --- |
-| Engy Abdel Azeez  | https://github.com/ |
+| Engy Abdel Azeez  | https://github.com/engy369 |
 | Armin Jamshidi | https://github.com/arminjamshidi |
 | Samira Kazemi  | https://github.com/samirakazemi |
-| Shahzeb Shahid | https://github.com/ |
+| Shahzeb Shahid | https://github.com/sshahid09 |
 
 
 The purpose of this analysis is to look into the Poker Hand Data set and analyze the strenght of each hand as a classification exercise. This dataset has already been devided into two sets of train and test dataset. Hence there is no need to split the data before starting the analysis.
