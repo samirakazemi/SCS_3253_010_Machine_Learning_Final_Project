@@ -17,13 +17,18 @@ Team members:
 | Shahzeb Shahid | https://github.com/sshahid09 |
 
 
-The purpose of this analysis is to look into the Poker Hand Data set and analyze the strenght of each hand as a classification exercise. This dataset has already been devided into two sets of train and test dataset. Hence there is no need to split the data before starting the analysis.
+The purpose of this analysis is to look into the Poker Hand Data set and analyze the strength of each hand as a classification exercise. This dataset has already been divided into two sets of train and test sets. Hence there is no need to split the data before starting the analysis.
 
-**UCI Machine Leaning Repository describes the dataset as following:**
+**Dataset description:**
 
-"Each record is an example of a hand consisting of five playing cards drawn from a standard deck of 52. Each card is described using two attributes (suit and rank), for a total of 10 predictive attributes. There is one Class attribute that describes the Poker Hand. The order of cards is important, which is why there are 480 possible Royal Flush hands as compared to 4.
+Each record of the dataset consists of five playing cards. In poker game, each hand consists of 5 cards drawn from a standard deck of 52. Each card has two attributes:
+- rank
+- suit
 
-**Attribute information of each card in one poker hand:**
+This will give us 10 predictive attributes for each poker hand. There is one Class attribute that describes the Poker Hand.
+
+
+**Attribute information of each card in one poker hand as described in UCI:**
 
 1) S1 "Suit of card #1" Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}
 2) C1 "Rank of card #1" Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)
@@ -37,7 +42,7 @@ The purpose of this analysis is to look into the Poker Hand Data set and analyze
 10) C5 "Rank of card 5" Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)
 11) CLASS "Poker Hand" Ordinal (0-9)
 
-**Attribution of the strength of the hand:**
+**Attribution of the strength of the hand as described in UCI:**
 
 0) Nothing in hand; not a recognized poker hand 
 1) One pair; one pair of equal ranks within five cards 
