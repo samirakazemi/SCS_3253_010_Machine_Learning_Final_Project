@@ -1,4 +1,4 @@
-# TO DO: ERASE THIS LATER: 1-PUT CORRECT LINK TO COLAB, 2- PUT THE VIDEO THERE
+# TO DO: ERASE THIS LATER: 1-PUT CORRECT LINK TO COLAB, 2- PUT THE VIDEO THERE 3-PUT THE CODE
 
 # SCS_3253_010_Machine_Learning_Final_Project
 Repository dedicated to Final Project of UofT Machine Learning Course.
