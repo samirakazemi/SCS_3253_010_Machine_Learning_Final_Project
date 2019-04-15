@@ -1,5 +1,3 @@
-# TO DO: ERASE THIS LATER: 1-PUT CORRECT LINK TO COLAB, 2- PUT THE VIDEO THERE 3-PUT THE CODE
-
 # SCS_3253_010_Machine_Learning_Final_Project
 Repository dedicated to Final Project of UofT Machine Learning Course.
 
@@ -69,6 +67,4 @@ Before fitting the data into the models, hyperparameters were used to train the 
 
 The accuracy of each model was plotted and the results show that _ has the highest acuuracy to predicate the correct strength of the poker hand compared to other models that we have used.
 
-**Here is a quick walkthrough of our project:**
 
-[![Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
