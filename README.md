@@ -3,7 +3,7 @@ Repository dedicated to Final Project of UofT Machine Learning Course.
 
 
 
-[![Google Colab](https://badgen.net/badge/Lancer/sur%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/samirakazemi/SCS_3253_010_Machine_Learning_Final_Project/blob/master/Final_Project.ipynb)
+[![Google Colab](https://avatars2.githubusercontent.com/u/38081706?s=60&v=4)](https://colab.research.google.com/github/samirakazemi/SCS_3253_010_Machine_Learning_Final_Project/blob/master/Final_Project.ipynb)
 
 
 Team members:
