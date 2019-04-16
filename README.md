@@ -68,4 +68,5 @@ Before fitting the data into the models, hyperparameters were used to train the 
 The accuracy of each model was plotted and the results show that _ has the highest acuuracy to predicate the correct strength of the poker hand compared to other models that we have used.
 
 **Here is a quick walkthrough of our project:**
+
 [![Video](https://img.youtube.com/vi/YQPSk7zC2bU/0.jpg)](https://www.youtube.com/watch?v=YQPSk7zC2bU)
